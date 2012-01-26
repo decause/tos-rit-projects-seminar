@@ -31,16 +31,13 @@ Is it a complete, playable game? Are there any bugs?
 Supports 2 - 4 players?
     5 points.
 
-Game includes instructions and/or a tutorial?
-    5 points.
-
 Is it Intuitive (easy to learn)
     10 points
 
 Does it have a polished feel to it?
     10 points
 
-Does the game include includestructions on how to play? (tutorials, help screens, readme.txt?)
+Does the game include instructions on how to play? (tutorials, help screens, readme.txt?)
     10 points.
 
 Does the game give good input feedback? (sound, animation, etc...)
@@ -97,6 +94,9 @@ Does it meet the criteria for a PBS Kids submission?
 
 Does it meet the criteria for a Middle School prize submission?
     20 points
+
+Is it educational/provide new knowledge to the player?
+    10 points
 
 Teamly Challenges
 -----------------
