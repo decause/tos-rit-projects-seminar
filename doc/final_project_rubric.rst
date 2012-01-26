@@ -25,11 +25,11 @@ Is it balanced?
 Lasting Appeal. Does it remain fun after multiple play throughs?  Will players keep coming back? (Also determined by classmates written review.)
     5 points.
  
-Is it a complete, playable game? Are there any bugs?
+Is is a complete working prototype for a game? 
     10 points.
 
-Supports 2 - 4 players?
-    5 points.
+Does it have any level of multiplayer?
+    2 points.
 
 Game includes instructions and/or a tutorial?
     5 points.
@@ -59,15 +59,15 @@ Does it run well on all modern mobile devices?
     5 points.
 
 Does it use AJAX?
-    2 points
+    1 points
 
 Does it use COMET?
-    5 points
+    1 points
 
-Does it run on PC / MAC?
+Does it run on WINDOWS/MAC?LINUX?
     5 points.
 
-Does it use CoffeScript?
+Does it use CoffeScript or Javascript?
     5 points
 
 Does it use Python?
@@ -76,10 +76,10 @@ Does it use Python?
 Is it hosted on OpenShift or a similar PaaS?
     5 points
 
-Does it hook into Facebook
+Does it hook into Facebook?
     2 points
 
-Game supports various different screen resolutions.
+Game supports various different screen resolutions?
     5 points
 
 
@@ -89,13 +89,7 @@ STEMly Challenges
 Does it meet criteria for a STEM challenge submission?
     20 points
 
-Does it meet the criteria for a Sesame games submission?
-    20 points
-
-Does it meet the criteria for a PBS Kids submission?
-    20 points
-
-Does it meet the criteria for a Middle School prize submission?
+Does it include plans for future development past the protoype stage?
     20 points
 
 Teamly Challenges
@@ -106,26 +100,36 @@ Is your team awesome? (did they pull their weight?)
       (for 4 person teams) 15 points per awesomesome team member
       (for 5 person teams) 12 points personr awesome team member
 
+Did your team learn how to merge GIT conflicts?
+    10 points
+
+Did your team participate in any all out brawls during the development process?
+   10 for the winner of the fight
+   -10 for each loser
+
 Funly Challenges
 ----------------
 
 Does it include a Ninja?
-    3 points (for how awesome the ninja is).
+    1 point (for how awesome the ninja is).
 
 Does it include a Pirate?
-    3 points (for how awesome the pirate is).
+    1 point (for how awesome the pirate is).
 
 Does it include a robot?
-    3 points (for how awesome the robot is).
+    1 point (for how awesome the robot is).
 
 Does it include a wizard?
-    3 points (for how awesome the wizard is).
+    1 point (for how awesome the wizard is).
 
 Does it include a ninja, a pirate, and a robot?
     3 points.
 
 Does it contain a velociraptor?
     3 points ( for how awesome the raptor is ).
+
+Does it feature a panda?
+    1 point.
 
 FOSSly Challenges
 -----------------
@@ -165,3 +169,5 @@ Did it get a head-nod from Big Bird?
 
 Did it get a head-nod from Cookie Monster?
     100 points
+
+
