@@ -12,6 +12,45 @@ How polished is it (card turning animation, choice of theme for back of cards, s
 
 Does the game give good user feedback? (sound, animation, haptic on mobile devices, popups, etc...)
 5 points.
+=======
+Does Melissa (Prof. Bean's girlfriend) think its pretty?
+    5 points.
+
+How polished is it (card turning animation, choice of theme for back of cards, 3D visual representation of card values, etc.)
+    5 points.
+
+Are the rules clearly explained / easily understood?
+    10 points.
+
+Is it balanced?
+    10 points.
+
+Lasting Appeal. Does it remain fun after multiple play throughs?  Will players keep coming back? (Also determined by classmates written review.)
+    5 points.
+ 
+Is it a complete, playable game? Are there any bugs?
+    10 points.
+
+Supports 2 - 4 players?
+    5 points.
+
+Is it Intuitive (easy to learn)
+    10 points
+
+Does it have a polished feel to it?
+    10 points
+
+Does the game include instructions on how to play? (tutorials, help screens, readme.txt?)
+    10 points.
+
+Does the game give good input feedback? (sound, animation, etc...)
+    10 points.
+
+Techly Challenges
+-----------------
+
+Game includes appropriate sound-effects/music and the ability to alter the game volume as well as to mute the game.
+    5 points
 
 Does it run well on all modern browsers?
 2 points for each browser (IE, Chrome, FireFox, Opera, Safari)
@@ -24,6 +63,29 @@ Is it hosted on OpenShift or a similar PaaS?
 
 Is your code hosted on an open code forge?
 5 points.
+=======
+Does it meet criteria for a STEM challenge submission?
+    20 points
+
+Does it meet the criteria for a Sesame games submission?
+    20 points
+
+Does it meet the criteria for a PBS Kids submission?
+    20 points
+
+Does it meet the criteria for a Middle School prize submission?
+    20 points
+
+Is it educational/provide new knowledge to the player?
+    10 points
+
+Teamly Challenges
+-----------------
+
+Is your team awesome? (did they pull their weight?)
+      (for 3 person teams) 20 points per awesome team member
+      (for 4 person teams) 15 points per awesomesome team member
+      (for 5 person teams) 12 points per awesome team member
 
 Does your project have a dedicated IRC channel?
 2 points.
